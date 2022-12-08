@@ -8,7 +8,8 @@
     "url": "git@bitbucket.org/CROSP/blog-api-nodejs.git"
   },
   "scripts": {
-    "coverage":"jest --config ./jest.config.json --collectCoverage --coverageDirectory=./coverage tests"
+    "coverage":"jest --config ./jest.config.json --collectCoverage --coverageDirectory=./coverage tests",
+    "test": "jest"
   },
   "keywords": [
     "Blog",
