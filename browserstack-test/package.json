@@ -1,5 +1,5 @@
 {
-  "name": "jest-selenium-browserstack-getstarted",
+  "name": "browserstack-test",
   "version": "1.0.0",
   "description": "Get started with example for running selenium test using jest runner",
   "main": "index.js",
